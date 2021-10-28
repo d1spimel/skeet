@@ -12,7 +12,7 @@ int main()
 	cin >> min;
 	cout << "Введите max: ";
 	cin >> max;
-	cout << "Введите h: ";
+	cout << "Введите h: "; // hi world
 	cin >> h;
 	x = min;
 	cout << setw(10) << "F(x): " << setw(10) << "F(y): " << endl;
